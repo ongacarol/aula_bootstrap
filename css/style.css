@@ -1,0 +1,29 @@
+body {
+    font: 12px Verdana;
+}
+.navbar {
+    background-color:  #283747;
+}
+
+.collapse {
+    color:lightgray;
+}
+
+.quem-somos {
+    background-color: chocolate;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.parceiros {
+    background-color: lightslategray;
+}
+
+.bg-footer {
+    background-color: black;
+    color: #BB8FCE;
+    padding-bottom: 50px;
+}
